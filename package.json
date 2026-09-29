@@ -1,0 +1,9 @@
+{
+  "name": "advanced-calculator",
+  "version": "1.0.0",
+  "description": "Node.js calculator with basic and scientific operations",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js"
+  }
+}
